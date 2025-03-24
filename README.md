@@ -9,8 +9,8 @@ This project aims to develop a parking space monitoring system to identify avail
 ### Hardware:
 - **Raspberry Pi**:
 - **Raspberry Pi Camera Module**:
-- **LED Lights**:
-- **Display for Results**:
+- **LED Button**:
+- **16x2 LCD Display for Results**:
 
 ### Software & Cloud Services:
 - **Python**: For programming the Raspberry Pi.
