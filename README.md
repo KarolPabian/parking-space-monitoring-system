@@ -2,15 +2,18 @@
 ###Karol Pabian | Student ID: 20102694
 
 ## Project Description
-This project aims to develop a parking space monitoring system to identify available parking spaces. Using a Raspberry Pi equipped with a camera, the system will monitor a designated parking area and utilize Azure AI for image recognition to determine the availability of parking spots. An LED light system will also be implemented to visually indicate the availability status of parking spaces.
+This project aims to develop a parking space monitoring system to identify available parking spaces. Using a Raspberry Pi equipped with a camera, the system will monitor a designated parking area and utilize Azure AI for image recognition to determine the availability of parking spots. The availability will be displayed on a LCD display or mobile app. Additionally, the system will analyze parking data to predict spot availability during different hours and weather conditions of the day and on different days of the week
 
 ## Tools, Technologies, and Equipment
 
 ### Hardware:
 - **Raspberry Pi**:
 - **Raspberry Pi Camera Module**:
-- **LED Button**:
+- **Temperature and Humidity Sensor**:
 - **16x2 LCD Display for Results**:
+- **LED Button**:
+
+
 
 ### Software & Cloud Services:
 - **Python**: For programming the Raspberry Pi.
